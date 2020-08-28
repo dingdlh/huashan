@@ -6,4 +6,6 @@ linghuchong
 wohuiduguqiujiani
 
 
-我会葵花宝典，我是东方不败。
+我会葵花宝典，我是东方不败
+
+test。
